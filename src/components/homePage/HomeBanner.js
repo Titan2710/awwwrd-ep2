@@ -95,6 +95,7 @@ const HomeBanner = ({ onCursor }) => {
           width="100%"
           loop
           autoPlay
+          muted
           src={require("../../assets/video/video.mp4")}
         />
       </Video>
